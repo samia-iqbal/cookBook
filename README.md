@@ -64,6 +64,70 @@ The aims and objectives of this projects are as the following:
   </body>
 </table>
 
-The table below shows the requirements of the project using the MoSCoW technique where I will be prioritising requirements.
 My favourite food:  
 ![Lasagne](https://img.taste.com.au/JaHuNed2/w1200-h630-cfill/taste/2016/11/beef-lasagne-77009-1.jpeg)
+
+The table below shows the requirements of the project using the MoSCoW technique where I will be prioritising requirements.
+<table>
+  <body>
+    <tr>
+      <th align="left">Must Have </th>
+      <th align="left">Could Have</th> 
+      <th align="left">Should Have</th> 
+      <th align="left">Wont Have</th> 
+    </tr>
+    <tr>
+      <td><ul><li>Use an agile methodology to manage the project</li></ul></td>
+      <td align="left"><ul>
+          <li>Will use an agile methodology called Trello board to set deadlines for tasks and carry out tasks</li>
+          <li>On the Trello board, will create user stories, use cases and tasks which are needed to complete the project</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td><ul><li>Create a design which describe the architecture of the Cook Book App</li></ul></td>
+      <td align="left"><ul><li>Will create a list of requirements using the MoSCoW technique</li>
+        <li>Will draw diagrams such as the ERD, use case diagrams and wireframes</li>
+        <li>Will carry out risk assessement to demonstrate the potential risks within this project</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td><ul><li>Create a working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
+      <td align="left">
+      <ul><li>Will be using programming languages such as C# to create the backend of the CRUD functionality</li>
+      <li>Will be using MySQL database to store the data for the users and recipes and connect it to C#</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>create a working front end functionality Cook Book App</li>
+        </ul>
+      </td>
+      <td align="left"><ul>
+          <li>Will be using ASP.NET to create the front end, allowing the users to interact with the Cook Book App</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Testing for the Cook Book App</li>
+        </ul>
+      </td>
+      <td align="left"><ul>
+          <li>Carry out unit testing and automated testing to validate the application</li>
+           <li>Provide consistent reports and evidence using a TDD approach</li>
+        </ul></td>
+    </tr>
+     <tr>
+      <td>
+        <ul>
+          <li>Integrate the code for the Cook Book App</li>
+        </ul>
+      </td>
+      <td align="left"><ul>
+          <li>Contionous integration of the code into a VCS (Version Control System) using the Feature-Branch model</li>
+           <li>Deploy the Cook Book App to the cloud-base dbirtual machine through a CI server</li>
+        </ul></td>
+    </tr>
+  </body>
+</table>
