@@ -9,8 +9,11 @@ The aims and objectives of this projects are as the following:
       <th align="center">Objectives</th> 
     </tr>
     <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
+      <td><ul><li>use a Trello board for project management</li></ul></td>
+      <td align="center"><ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul></td>
     </tr>
     <tr>
       <td>col 2 is</td>
