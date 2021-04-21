@@ -101,7 +101,4 @@ The table below shows the requirements of the project using the MoSCoW technique
        <td align= "left"></td>
     </tr>
 </table>
-## Design 
-
-
-
+ ### Use Case diagram 
