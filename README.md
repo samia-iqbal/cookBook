@@ -71,13 +71,13 @@ The table below shows the requirements of the project using the MoSCoW technique
 <table>
   <body>
     <tr>
-      <th align="left">Must Have </th>
-      <th align="left">Could Have</th> 
-      <th align="left">Should Have</th> 
-      <th align="left">Wont Have</th> 
+      <th align="centre">Must Have </th>
+      <th align="centre">Could Have</th> 
+      <th align="centre">Should Have</th> 
+      <th align="centre">Wont Have</th> 
     </tr>
     <tr>
-      <td><ul><li>Use an agile methodology to manage the project</li></ul></td>
+      <td>The user must be able to read the recipes om the Cook Book App</td>
       <td align="left"><ul>
           <li>Will use an agile methodology called Trello board to set deadlines for tasks and carry out tasks</li>
           <li>On the Trello board, will create user stories, use cases and tasks which are needed to complete the project</li>
