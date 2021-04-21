@@ -10,7 +10,7 @@ The aims and objectives of this projects are as the following:
     </tr>
     <tr>
       <td><ul><li>use an agile methodology called Trello board for project management</li></ul></td>
-      <td align="center"><ul>
+      <td align="left"><ul>
           <li>item1</li>
           <li>item2</li>
         </ul></td>
