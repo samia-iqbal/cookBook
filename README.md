@@ -22,8 +22,11 @@ The aims and objectives of this projects are as the following:
         </ul></td>
     </tr>
     <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
+      <td><ul><li>A working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
+      <td align="left">
+      <ul><li>Will be using programming languages such as C# to create the backend of the CRUD functionality</li></ul>
+      <ul><li>Will be using MySQL database to store the data for the users and recipes and connect it to C#</li></ul>
+      </td>
     </tr>
     <tr>
       <td>
