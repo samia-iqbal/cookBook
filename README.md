@@ -56,7 +56,7 @@ The aims and objectives of this projects are as the following:
         </ul>
       </td>
       <td align="left"><ul>
-          <li>Contionous integration of the code into a VCS(Version Control System) using the Feature-Branch model</li>
+          <li>Contionous integration of the code into a VCS (Version Control System) using the Feature-Branch model</li>
            <li>deploy the Cook Book App to the cloud-base dbirtual machine through a CI server</li>
         </ul></td>
     </tr>
