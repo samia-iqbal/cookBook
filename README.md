@@ -9,20 +9,20 @@ The aims and objectives of this projects are as the following:
       <th align="center">Objectives</th> 
     </tr>
     <tr>
-      <td><ul><li>use an agile methodology to manage the project</li></ul></td>
+      <td><ul><li>Use an agile methodology to manage the project</li></ul></td>
       <td align="left"><ul>
-          <li>will use an agile methodology called Trello board</li>
+          <li>Will use an agile methodology called Trello board</li>
           <li>On the Trello board, will create user stories, use cases and tasks which are needed to complete the project</li>
         </ul></td>
     </tr>
     <tr>
-      <td><ul><li>create a design which describe the architecture of the Cook Book App</li></ul></td>
+      <td><ul><li>Create a design which describe the architecture of the Cook Book App</li></ul></td>
       <td align="left"><ul><li>Will draw ERD, use case diagrams and wireframes</li>
         <li>Will carry out risk assessement to demonstrate the potential risks within this project</li>
         </ul></td>
     </tr>
     <tr>
-      <td><ul><li>A working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
+      <td><ul><li>Create a working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
       <td align="left">
       <ul><li>Will be using programming languages such as C# to create the backend of the CRUD functionality</li></ul>
       <ul><li>Will be using MySQL database to store the data for the users and recipes and connect it to C#</li></ul>
