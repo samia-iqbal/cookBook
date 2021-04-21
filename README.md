@@ -91,11 +91,13 @@ The table below shows the requirements of the project using the MoSCoW technique
       <td align="left">The user must be able to update the recipes to the Cook Book App</td></td>
       <td align= "left">The user can validate their name and password</td>
       <td align= "left">The user can update a review</td>
+       <td align= "left">The admin can track the users performance</td>
     </tr>
     <tr>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
       <td align="left"></td></td>
-      <td align="left">The user can update a reviewp</td></td>
+      <td align="left">The user can delete a review</td></td>
+       <td align= "left"></td>
     </tr>
     
  
