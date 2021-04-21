@@ -96,7 +96,7 @@ The table below shows the requirements of the project using the MoSCoW technique
     </tr>
     <tr>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
-      <td align="left"></td></td>
+      <td align="left">The system should allow the user to only update and delete the recipes/reviews they added to the app </td></td>
       <td align="left">The user can delete a review</td></td>
        <td align= "left">The admin can manage reviews.E.g delete reviews</td>
     </tr>
