@@ -100,14 +100,10 @@ The table below shows the requirements of the project using the MoSCoW technique
       <td align="left">The user can delete a review</td></td>
        <td align= "left"></td>
     </tr>
-    
- 
-
-
-
-
-
-
-
-
 </table>
+## Design 
+### Use case diagram
+### ERD diagram
+### Wireframe
+
+
