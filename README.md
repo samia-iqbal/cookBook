@@ -3,7 +3,7 @@ The cook book will include different type of recipes. The user will be able to a
 
 The aims and objectives of this projects are as the following:
 
-| Left-Aligned  | Center Aligned  | 
+| Aims          | Objectives      | 
 | :------------ |:---------------:|
 | col 3 is      | some wordy text |
 | col 2 is      | centered        |
