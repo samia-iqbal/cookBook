@@ -17,7 +17,8 @@ The aims and objectives of this projects are as the following:
     </tr>
     <tr>
       <td><ul><li>Create a design which describe the architecture of the Cook Book App</li></ul></td>
-      <td align="left"><ul><li>Will draw ERD, use case diagrams and wireframes</li>
+      <td align="left"><ul><li>Will create a list of requirements using the MoSCoW technique</li>
+        <li>Will draw diagrams such as the ERD, use case diagrams and wireframes</li>
         <li>Will carry out risk assessement to demonstrate the potential risks within this project</li>
         </ul></td>
     </tr>
@@ -57,7 +58,7 @@ The aims and objectives of this projects are as the following:
       </td>
       <td align="left"><ul>
           <li>Contionous integration of the code into a VCS (Version Control System) using the Feature-Branch model</li>
-           <li>deploy the Cook Book App to the cloud-base dbirtual machine through a CI server</li>
+           <li>Deploy the Cook Book App to the cloud-base dbirtual machine through a CI server</li>
         </ul></td>
     </tr>
   </body>
