@@ -86,23 +86,23 @@ The table below shows the requirements of the project using the MoSCoW technique
       <td align="left">The user must be able to add the recipes to the Cook Book App</td></td>
        <td align= "left">The user can login</td>
   <td align= "left">The user can add a review</td>
-  <td align= "left">The admin can view datetime user logged in and logout</td>
+  <td align= "left">The admin can manage users E.g. delete, update users</td>
     </tr>
     <tr>
       <td align="left">The user must be able to update the recipes to the Cook Book App</td></td>
       <td align= "left">The user can validate their name and password</td>
       <td align= "left">The user can update a review</td>
-       <td align= "left">The admin can track the users performance</td>
+       <td align= "left">The admin can track the users performance E.g datetime user logged in and out</td>
     </tr>
     <tr>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
       <td align="left"></td></td>
       <td align="left">The user can delete a review</td></td>
-       <td align= "left"></td>
+       <td align= "left">The admin can manage reviews.E.g delete reviews</td>
     </tr>
 </table>
 
 ### Use Case diagram 
 Below is the the use case diagram which demonstrates how the user will be interacting with the system which in this case is the Cook Book App.
 
-![UML](usecase1.png)
+![UML](usecase2.png)
