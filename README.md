@@ -78,16 +78,13 @@ The table below shows the requirements of the project using the MoSCoW technique
     </tr>
     <tr>
       <td align= "left">The user must be able to read the recipes on the Cook Book App</td>
-      <td align="left">The user must be able to add the recipes to the Cook Book App</td>
+     
          <td align= "left">The user must be able to update the recipes on the Cook Book App</td>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td>
     </tr>
     <tr>
-      <td><ul><li>Create a design which describe the architecture of the Cook Book App</li></ul></td>
-      <td align="left"><ul><li>Will create a list of requirements using the MoSCoW technique</li>
-        <li>Will draw diagrams such as the ERD, use case diagrams and wireframes</li>
-        <li>Will carry out risk assessement to demonstrate the potential risks within this project</li>
-        </ul></td>
+     <td align="left">The user must be able to add the recipes to the Cook Book App</td>
+     
     </tr>
     <tr>
       <td><ul><li>Create a working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
