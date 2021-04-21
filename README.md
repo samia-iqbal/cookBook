@@ -77,11 +77,10 @@ The table below shows the requirements of the project using the MoSCoW technique
       <th align="centre">Wont Have</th> 
     </tr>
     <tr>
-      <td>The user must be able to read the recipes om the Cook Book App</td>
-      <td align="left"><ul>
-          <li>Will use an agile methodology called Trello board to set deadlines for tasks and carry out tasks</li>
-          <li>On the Trello board, will create user stories, use cases and tasks which are needed to complete the project</li>
-        </ul></td>
+      <td align= "left">The user must be able to read the recipes on the Cook Book App</td>
+      <td align="left">The user must be able to add the recipes to the Cook Book App</td>
+         <td align= "left">The user must be able to update the recipes on the Cook Book App</td>
+      <td align="left">The user must be able to delete the recipes to the Cook Book App</td>
     </tr>
     <tr>
       <td><ul><li>Create a design which describe the architecture of the Cook Book App</li></ul></td>
