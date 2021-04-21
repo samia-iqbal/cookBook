@@ -87,7 +87,7 @@ The table below shows the requirements of the project using the MoSCoW technique
     <tr>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
     </tr>
-    
+    <td>
  <tr>
       <td align= "left">The user can login</td>
     </tr>
@@ -95,7 +95,7 @@ The table below shows the requirements of the project using the MoSCoW technique
       <td align= "left">The user can validate their name and password</td>
     </tr>
 
-
+</td>
 
 
 
