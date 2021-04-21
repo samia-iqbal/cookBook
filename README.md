@@ -11,7 +11,7 @@ The aims and objectives of this projects are as the following:
     <tr>
       <td><ul><li>Use an agile methodology to manage the project</li></ul></td>
       <td align="left"><ul>
-          <li>Will use an agile methodology called Trello board</li>
+          <li>Will use an agile methodology called Trello board to set deadlines for tasks and carry out tasks</li>
           <li>On the Trello board, will create user stories, use cases and tasks which are needed to complete the project</li>
         </ul></td>
     </tr>
@@ -44,7 +44,10 @@ The aims and objectives of this projects are as the following:
           <li>Testing for the Cook Book App</li>
         </ul>
       </td>
-      <td align="left">See the list</td>
+      <td align="left"><ul>
+          <li>Carry out unit testing and automated testing to validate the application</li>
+           <li>Provide consistent reports and evidence using a TDD approach</li>
+        </ul></td>
     </tr>
   </body>
 </table>
