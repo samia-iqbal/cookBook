@@ -63,8 +63,7 @@ The aims and objectives of this projects are as the following:
     </tr>
   </body>
 </table>
-
-My favourite food:  
+  
 ![Lasagne](https://img.taste.com.au/JaHuNed2/w1200-h630-cfill/taste/2016/11/beef-lasagne-77009-1.jpeg)
 
 The table below shows the requirements of the project using the MoSCoW technique where I will be prioritising requirements.
@@ -72,8 +71,8 @@ The table below shows the requirements of the project using the MoSCoW technique
   <body>
     <tr>
       <th align="centre">Must Have </th>
-      <th align="centre">Could Have</th> 
       <th align="centre">Should Have</th> 
+      <th align="centre">Could Have</th> 
       <th align="centre">Wont Have</th> 
     </tr>
     <tr>
@@ -88,4 +87,18 @@ The table below shows the requirements of the project using the MoSCoW technique
     <tr>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
     </tr>
+    <tr>
+ <tr>
+      <td align= "left">The user can login</td>
+    </tr>
+<tr>
+      <td align= "left">The user can validate their name and password</td>
+    </tr>
+
+
+
+
+
+
+</tr>
 </table>
