@@ -8,3 +8,4 @@ The aims and objectives of this projects are as the following:
 | col 3 is      | some wordy text |
 | col 2 is      | centered        |
 | zebra stripes | are neat        |
+| monkey        |  ddd            |
