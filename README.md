@@ -102,8 +102,6 @@ The table below shows the requirements of the project using the MoSCoW technique
     </tr>
 </table>
 ## Design 
-### Use case diagram
-### ERD diagram
-### Wireframe
+
 
 
