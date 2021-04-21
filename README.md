@@ -78,12 +78,11 @@ The table below shows the requirements of the project using the MoSCoW technique
     </tr>
     <tr>
       <td align= "left">The user must be able to read the recipes on the Cook Book App</td>
-     
+          <td align="left">The user must be able to add the recipes to the Cook Book App</td>
          <td align= "left">The user must be able to update the recipes on the Cook Book App</td>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td>
     </tr>
     <tr>
-     <td align="left">The user must be able to add the recipes to the Cook Book App</td>
      
     </tr>
     <tr>
