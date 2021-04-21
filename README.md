@@ -11,17 +11,14 @@ The aims and objectives of this projects are as the following:
     <tr>
       <td>col 3 is</td>
       <td align="center">right-aligned</td>
-      
     </tr>
     <tr>
       <td>col 2 is</td>
       <td align="center">centered</td>
-     
     </tr>
     <tr>
       <td>zebra stripes</td>
       <td align="center">are neat</td>
-   
     </tr>
     <tr>
       <td>
@@ -31,7 +28,6 @@ The aims and objectives of this projects are as the following:
         </ul>
       </td>
       <td align="center">See the list</td>
-    
     </tr>
   </body>
 </table>
