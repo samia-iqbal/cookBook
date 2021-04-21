@@ -65,7 +65,7 @@ The aims and objectives of this projects are as the following:
 </table>
   
 ![Lasagne](https://img.taste.com.au/JaHuNed2/w1200-h630-cfill/taste/2016/11/beef-lasagne-77009-1.jpeg)
-
+# Functional and Non-functional Requirements 
 The table below shows the requirements of the project using the MoSCoW technique where I will be prioritising requirements.
 <table>
   <body>
