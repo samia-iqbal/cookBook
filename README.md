@@ -82,47 +82,5 @@ The table below shows the requirements of the project using the MoSCoW technique
          <td align= "left">The user must be able to update the recipes on the Cook Book App</td>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td>
     </tr>
-    <tr>
-     
-    </tr>
-    <tr>
-      <td><ul><li>Create a working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
-      <td align="left">
-      <ul><li>Will be using programming languages such as C# to create the backend of the CRUD functionality</li>
-      <li>Will be using MySQL database to store the data for the users and recipes and connect it to C#</li></ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>create a working front end functionality Cook Book App</li>
-        </ul>
-      </td>
-      <td align="left"><ul>
-          <li>Will be using ASP.NET to create the front end, allowing the users to interact with the Cook Book App</li>
-        </ul></td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>Testing for the Cook Book App</li>
-        </ul>
-      </td>
-      <td align="left"><ul>
-          <li>Carry out unit testing and automated testing to validate the application</li>
-           <li>Provide consistent reports and evidence using a TDD approach</li>
-        </ul></td>
-    </tr>
-     <tr>
-      <td>
-        <ul>
-          <li>Integrate the code for the Cook Book App</li>
-        </ul>
-      </td>
-      <td align="left"><ul>
-          <li>Contionous integration of the code into a VCS (Version Control System) using the Feature-Branch model</li>
-           <li>Deploy the Cook Book App to the cloud-base dbirtual machine through a CI server</li>
-        </ul></td>
-    </tr>
-  </body>
+   
 </table>
