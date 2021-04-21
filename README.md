@@ -77,18 +77,19 @@ The table below shows the requirements of the project using the MoSCoW technique
     </tr>
     <tr>
       <td align= "left">The user must be able to read the recipes on the Cook Book App</td>
-       <td align= "left">The user can login</td>
+       <td align= "left">The user can register</td>
       <td align= "left">The user can add reviews</td>
       <td align= "left">The admin can login</td>
     </tr>
     <tr>
       <td align="left">The user must be able to add the recipes to the Cook Book App</td></td>
-      <td align= "left">The user can validate their name and password</td>
+       <td align= "left">The user can login</td>
   <td align= "left"></td>
   <td align= "left">The admin can view datetime user logged in and logout</td>
     </tr>
     <tr>
       <td align="left">The user must be able to update the recipes to the Cook Book App</td></td>
+      <td align= "left">The user can validate their name and password</td>
     </tr>
     <tr>
       <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
