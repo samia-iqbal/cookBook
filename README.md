@@ -49,5 +49,16 @@ The aims and objectives of this projects are as the following:
            <li>Provide consistent reports and evidence using a TDD approach</li>
         </ul></td>
     </tr>
+     <tr>
+      <td>
+        <ul>
+          <li>Integrate the code for the Cook Book App</li>
+        </ul>
+      </td>
+      <td align="left"><ul>
+          <li>Contionous integration of the code into a VCS(Version Control System) using the Feature-Branch model</li>
+           <li>deploy the Cook Book App to the cloud-base dbirtual machine through a CI server</li>
+        </ul></td>
+    </tr>
   </body>
 </table>
