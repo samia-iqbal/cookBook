@@ -25,16 +25,18 @@ The aims and objectives of this projects are as the following:
       <td><ul><li>Create a working CRUD functionality created for the Cook Book App using a database and coding</li></ul></td>
       <td align="left">
       <ul><li>Will be using programming languages such as C# to create the backend of the CRUD functionality</li>
-      <<li>Will be using MySQL database to store the data for the users and recipes and connect it to C#</li></ul>
+      <li>Will be using MySQL database to store the data for the users and recipes and connect it to C#</li></ul>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li>create a working front end functionality cook book app</li>
+          <li>create a working front end functionality Cook Book App</li>
         </ul>
       </td>
-      <td align="left">See the list</td>
+      <td align="left"><ul>
+          <li>Will be using ASP.NET to create the front end, allowing the users to interact with the Cook Book App</li>
+        </ul></td>
     </tr>
     <tr>
       <td>
