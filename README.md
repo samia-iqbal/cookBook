@@ -16,8 +16,10 @@ The aims and objectives of this projects are as the following:
         </ul></td>
     </tr>
     <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
+      <td><ul><li>create a design which describe the architecture of the Cook Book App</li></ul></td>
+      <td align="center"><ul><li>Will draw ERD, use case diagrams and wireframes</li>
+        <li>Will carry out risk assessement to demonstrate the potential risks within this project</li>
+        </ul></td>
     </tr>
     <tr>
       <td>zebra stripes</td>
