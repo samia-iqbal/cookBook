@@ -83,22 +83,22 @@ The table below shows the requirements of the project using the MoSCoW technique
       <td align= "left">The admin can login</td>
     </tr>
     <tr>
-      <td align="left">The user must be able to add the recipes to the Cook Book App</td></td>
+      <td align="left">The user must be able to add the recipes to the Cook Book App</td>
        <td align= "left">The user can add reviews</td>
   <td align= "left">The user can login</td>
   <td align= "left">The admin can manage users E.g. delete, update users</td>
     </tr>
     <tr>
-      <td align="left">The user must be able to update the recipes to the Cook Book App</td></td>
+      <td align="left">The user must be able to update the recipes to the Cook Book App</td>
       <td align= "left">The user can update a review</td>
       <td align= "left">The user can validate their username and password</td>
        <td align= "left">The admin can track the users performance E.g datetime user logged in and out</td>
     </tr>
     <tr>
-      <td align="left">The user must be able to delete the recipes to the Cook Book App</td></td>
-      <td align="left">The user can delete a review</td></td>
-      <td align="left">The user can delete a review</td></td>
-       <td align= "left"><ul><li>The admin can manage reviews.E.g delete reviews</li><li>The system should allow the user to only update and delete the recipes/reviews they added to the app </li></ul></td>
+      <td align="left">The user must be able to delete the recipes to the Cook Book App</td>
+      <td align="left">The user can delete a review</td>
+      <td align="left"></td>
+       <td align= "left">The admin can manage reviews.E.g delete reviews</td>
     </tr>
 </table>
 
