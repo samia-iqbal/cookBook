@@ -103,6 +103,6 @@ The table below shows the requirements of the project using the MoSCoW technique
 </table>
 
 ### Use Case diagram 
-Below is the the use case diagram which demonstrates how the user will be interacting with the system which in this case is the Cook Book App.
+Below is the the use case diagram which demonstrates how the user will be interacting with the system which in this case is the Cook Book App (Please note that for implementation, I will only be interacting with two database tables which are recipes and reviews).
 
 ![UML](usecase2.png)
