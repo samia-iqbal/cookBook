@@ -109,6 +109,6 @@ Below is the the use case diagram which demonstrates how the user will be intera
 
 ### Entity diagram 
 
-![chen](chenStyleDiagram.png)
+![chen](chenStyleDiagram.PNG)
 
 ![UML](entityImage.png)
