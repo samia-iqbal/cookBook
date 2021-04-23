@@ -108,5 +108,7 @@ Below is the the use case diagram which demonstrates how the user will be intera
 ![UML](usecase2.png)
 
 ### Entity diagram 
-![UML](chenStyleDiagram.png)
+
+![chen](chenStyleDiagram.png)
+
 ![UML](entityImage.png)
