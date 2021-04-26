@@ -65,7 +65,6 @@ The aims and objectives of this projects are as the following:
   </body>
 </table>
   
-![Lasagne](https://img.taste.com.au/JaHuNed2/w1200-h630-cfill/taste/2016/11/beef-lasagne-77009-1.jpeg)
 ### Functional and Non-functional Requirements 
 The table below shows the requirements of the project using the MoSCoW technique where I will be prioritising requirements.
 <table>
@@ -108,7 +107,7 @@ Below is the the use case diagram which demonstrates how the user will be intera
 ![UML](usecase2.png)
 
 ### Entity diagram 
-
+Below is the Chen's conceptual model for the CookBook App. The diagram consists of entity types which in this case are Recipes, Users and Reviews, it also consists of relationships which are manages and contains. The user will manage recipes which in further detail means that the user can add/delete/update/review recipes. For the following entity types, there are different types of attributes such as primary key, foreign key and other attributes. The attributes in yellow are the primary key and the attributes in pink are the foreign key, which essentially means that this attribute was inherited from another table. 
 ![chen](chenStyleDiagram.PNG)
 
 ![UML](entityImage.png)
