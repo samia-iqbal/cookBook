@@ -108,7 +108,7 @@ Below is the the use case diagram which demonstrates how the user will be intera
 
 ### Entity diagram 
 Below is the Chen's conceptual model for the CookBook App. The diagram consists of entity types which in this case are Recipes, Users and Reviews, it also consists of relationships which are manages and contains. The user will manage recipes which in further detail means that the user can add/delete/update/review recipes. For the following entity types, there are different types of attributes such as primary key, foreign key and other attributes. The attributes in yellow are the primary key and the attributes in pink are the foreign key, which essentially means that this attribute was inherited from another table. 
-![chen](chenStyleDiagram.PNG)
+![chen](chenLogical.PNG)
 
 Below is the UML logical model for the CookBook App. The diagram explores the different types of tables that will be on the database and how these tables will be interacting with one and another. For example, the recipeID will be retrieved in the Reviews table. This is to allow the users to add or read a review of a certain recipe. 
-![UML](entityImage.png)
+![UML](entityUML.png)
