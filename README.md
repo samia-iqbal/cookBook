@@ -111,4 +111,6 @@ Below is the Chen's conceptual model for the CookBook App. The diagram consists 
 ![chen](ChenLogical.PNG)
 
 Below is the UML logical model for the CookBook App. The diagram explores the different types of tables that will be on the database and how these tables will be interacting with one and another. For example, the recipeID will be retrieved in the Reviews table. This is to allow the users to add or read a review of a certain recipe. 
+
+The relationship between the Users and Recipes is one to many which means that one user can add many recipes and in other words it means that many recipes can be added by one User. The relationship between the Users and Reviews is again one to many as one user can add many reviews too. 
 ![UML](umlERD.PNG)
